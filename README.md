@@ -25,7 +25,7 @@ A simple UI that displays the count and provides buttons to control it.
 
 How to Run:
 1. Download or clone this repository:
-git clone https://github.com/your-username/counter-app.git
+git clone https://github.com/gowdakeerthana353-ux/counter-app.git
 2.Open index.html in your browser
 
 What I Learned:
